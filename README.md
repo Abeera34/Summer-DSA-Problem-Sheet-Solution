@@ -19,7 +19,7 @@ CSE Student || Coding Enthusiast || Aspiring Software Developer
 | :-------- | :------- | :------------------------- |
 | 1. |Wave Sort | `Easy` | 
 |2. |DNF or 0,1,2 Sort|`Easy`|
-
+|3. |Subarray with given sum|`Easy`|
 
 
 ## 🛠 Skills
