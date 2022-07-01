@@ -22,6 +22,7 @@ CSE Student || Coding Enthusiast || Aspiring Software Developer
 |3. |Subarray with given sum|`Easy`|
 |4. |Kadane Algorithm|`Medium`|
 |5. |Missing Numbers in array|`Easy`|
+|6. |Search Insert Position| `Easy` |
 
 
 ## 🛠 Skills
