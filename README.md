@@ -21,7 +21,7 @@ CSE Student || Coding Enthusiast || Aspiring Software Developer
 |2. |DNF or 0,1,2 Sort|`Easy`|
 |3. |Subarray with given sum|`Easy`|
 |4. |Kadane Algorithm|`Medium`|
-|5. |
+|5. |Missing Numbers in array|`Easy`|
 
 
 ## 🛠 Skills
