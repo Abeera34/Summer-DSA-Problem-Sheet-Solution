@@ -24,7 +24,7 @@ CSE Student || Coding Enthusiast || Aspiring Software Developer
 |5. |Missing Numbers in array|`Easy`|
 |6. |Search Insert Position| `Easy` |
 |7. |Sqrt(x)| `Easy` |
-|6. |Smallest letter greater than the target| `Easy` |
+|8. |Smallest letter greater than the target| `Easy` |
 
 
 
