@@ -23,6 +23,9 @@ CSE Student || Coding Enthusiast || Aspiring Software Developer
 |4. |Kadane Algorithm|`Medium`|
 |5. |Missing Numbers in array|`Easy`|
 |6. |Search Insert Position| `Easy` |
+|7. |Sqrt(x)| `Easy` |
+|6. |Smallest letter greater than the target| `Easy` |
+
 
 
 ## 🛠 Skills
